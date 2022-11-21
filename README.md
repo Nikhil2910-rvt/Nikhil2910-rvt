@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil2910-rvt" alt="nikhil2910-rvt" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@nikhilv37131257" target="blank"><img src="https://img.shields.io/twitter/follow/@nikhilv37131257?logo=twitter&style=for-the-badge" alt="@nikhilv37131257" /></a> </p>
+<p align="left"> <a href="https://https://twitter.com/NikhilV37131257" target="blank"><img src="https://img.shields.io/twitter/follow/@nikhilv37131257?logo=twitter&style=for-the-badge" alt="@nikhilv37131257" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development**
 
